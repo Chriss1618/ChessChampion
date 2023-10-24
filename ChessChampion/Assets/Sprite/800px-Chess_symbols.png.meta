@@ -1,0 +1,744 @@
+fileFormatVersion: 2
+guid: 72d6bac4fa9d7e34789137d17302e2fe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1015
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b908b6bf640e916468f86f95e7cdef7c
+      internalID: -1990700903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1015
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1df472cb5465dd4db1dc1c2939e53d4
+      internalID: 13786280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1015
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0362a6c8a934d947a4af3a27fd59ddb
+      internalID: 1951842527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1015
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e93f19c76bc094f86e9549a376b7e1
+      internalID: -797942413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1015
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d880a21998580b946924816c64d89021
+      internalID: 1017513208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_5
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1015
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86c44bb3ae476343bcbe0b229401dea
+      internalID: 1409260655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 903
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2622d18a2a458f64c8ad60a12c1a8500
+      internalID: 874369190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 903
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37db6e86a2f6d2428428b6544344069
+      internalID: -1072780828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_8
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 903
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6ed4c7552f60345a502d5ec972bd7c
+      internalID: 382858704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_9
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 903
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb798686e407b14eb49a85c2fb93cf9
+      internalID: -1371408162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_10
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 903
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e98924046e9e41438573a324b927534
+      internalID: -363233070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_11
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 903
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9adecacb37a1fa4fb6b954265f1a720
+      internalID: -115282798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 731
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4142d2521c0a7e648a9782799851600d
+      internalID: 174262556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 731
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2d64b2b996c0742908c77bac7143b7
+      internalID: 134565571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 731
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6055c1c1992b7478b6b8d1264777bc
+      internalID: -153935469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_15
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 729
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb803ebc640e5bd4d949a9e5138e8003
+      internalID: -9387672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_16
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 731
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2c17ace81eb3b4480c56d255fbf18e
+      internalID: -626851322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_17
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 731
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6d47ed1e3d6c642afbd620081e5b4c
+      internalID: 1335394194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 617
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b6a364bd8bb534f8632a5a32977bb8
+      internalID: -965931224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 616
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981c6e2561cfb2e48a42b717cd009356
+      internalID: 954418751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_20
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 617
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894cc36b9a2f8774db51572e42d8f0f4
+      internalID: 1356158020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_21
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 614
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d6fbbd041d1c2489853d91834dd2c5
+      internalID: -312968662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_22
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 616
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1837a8e9bc237d249bdf29449ab81713
+      internalID: 1725768546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 800px-Chess_symbols_23
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 616
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341f556d3a30f27429070af72fd4b915
+      internalID: -350116516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      800px-Chess_symbols_0: -1990700903
+      800px-Chess_symbols_1: 13786280
+      800px-Chess_symbols_10: -363233070
+      800px-Chess_symbols_11: -115282798
+      800px-Chess_symbols_12: 174262556
+      800px-Chess_symbols_13: 134565571
+      800px-Chess_symbols_14: -153935469
+      800px-Chess_symbols_15: -9387672
+      800px-Chess_symbols_16: -626851322
+      800px-Chess_symbols_17: 1335394194
+      800px-Chess_symbols_18: -965931224
+      800px-Chess_symbols_19: 954418751
+      800px-Chess_symbols_2: 1951842527
+      800px-Chess_symbols_20: 1356158020
+      800px-Chess_symbols_21: -312968662
+      800px-Chess_symbols_22: 1725768546
+      800px-Chess_symbols_23: -350116516
+      800px-Chess_symbols_24: -3995800
+      800px-Chess_symbols_25: -154499707
+      800px-Chess_symbols_26: 467967161
+      800px-Chess_symbols_27: -323127496
+      800px-Chess_symbols_28: 171903039
+      800px-Chess_symbols_29: -1596541964
+      800px-Chess_symbols_3: -797942413
+      800px-Chess_symbols_30: -1733632903
+      800px-Chess_symbols_31: -306845734
+      800px-Chess_symbols_32: -1514509327
+      800px-Chess_symbols_33: -450016494
+      800px-Chess_symbols_34: 2034263731
+      800px-Chess_symbols_35: -2038421167
+      800px-Chess_symbols_36: 2129236254
+      800px-Chess_symbols_37: 118671995
+      800px-Chess_symbols_38: 902630630
+      800px-Chess_symbols_39: -619323855
+      800px-Chess_symbols_4: 1017513208
+      800px-Chess_symbols_40: -1745042783
+      800px-Chess_symbols_41: 1795788604
+      800px-Chess_symbols_42: -1058919287
+      800px-Chess_symbols_43: 939434296
+      800px-Chess_symbols_44: 740063836
+      800px-Chess_symbols_45: 1166575775
+      800px-Chess_symbols_46: 642041202
+      800px-Chess_symbols_47: -1116768954
+      800px-Chess_symbols_48: -789425620
+      800px-Chess_symbols_49: -847747199
+      800px-Chess_symbols_5: 1409260655
+      800px-Chess_symbols_50: -691623900
+      800px-Chess_symbols_51: -2064055271
+      800px-Chess_symbols_52: 202162900
+      800px-Chess_symbols_53: 1888395939
+      800px-Chess_symbols_54: 1079200123
+      800px-Chess_symbols_55: -156280651
+      800px-Chess_symbols_56: 570312509
+      800px-Chess_symbols_57: 1566906145
+      800px-Chess_symbols_58: 997707242
+      800px-Chess_symbols_59: -728848569
+      800px-Chess_symbols_6: 874369190
+      800px-Chess_symbols_60: -437761242
+      800px-Chess_symbols_61: 964996960
+      800px-Chess_symbols_62: -1727388345
+      800px-Chess_symbols_63: -208476594
+      800px-Chess_symbols_64: -1347606829
+      800px-Chess_symbols_65: -180016540
+      800px-Chess_symbols_66: 1468481789
+      800px-Chess_symbols_67: 1994143937
+      800px-Chess_symbols_68: 1019896611
+      800px-Chess_symbols_69: 1957533758
+      800px-Chess_symbols_7: -1072780828
+      800px-Chess_symbols_70: -449624589
+      800px-Chess_symbols_71: 1859083033
+      800px-Chess_symbols_72: -795312542
+      800px-Chess_symbols_73: 1262744534
+      800px-Chess_symbols_8: 382858704
+      800px-Chess_symbols_9: -1371408162
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
