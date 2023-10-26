@@ -20,7 +20,6 @@ public class GridManager : MonoBehaviour
     private void Awake() {
         Instance = this;
     }
-
     
     public void GenerateGrid() { 
         _tiles = new Dictionary<Vector2, Tile>();

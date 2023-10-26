@@ -232,6 +232,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6665d640535f7b8459faecbc58bf1641, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _Board: {fileID: 1906091870}
   _width: 16
   _height: 9
   _tileGrass: {fileID: 2517085993126118786, guid: de432cc700be6764bb0d3bcb582018a0, type: 3}
@@ -1106,7 +1107,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ccc37a67338086442b27d7b980f7943a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _Board: {fileID: 1906091870}
   SelectedHero: {fileID: 0}
 --- !u!4 &1302671668
 Transform:

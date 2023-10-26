@@ -6,7 +6,7 @@ using UnityEngine;
 public class UnitManager : MonoBehaviour
 {
     public static UnitManager Instance;
-    
+    [SerializeField] private int HeroCount = 5;
     private List<ScriptableUnit> _units;
     
     public BaseHero SelectedHero;
@@ -17,7 +17,6 @@ public class UnitManager : MonoBehaviour
         _units = Resources.LoadAll<ScriptableUnit>("Units").ToList();
     }
     public void SpawnHeroes() {
-        var HeroCount = 1;
         for (int i = 0; i < HeroCount; i++) {
             var randomPrefab    = GetRandomUnit<BaseHero>(Faction.Hero);
             var spawnedHero     = Instantiate(randomPrefab);
